@@ -102,7 +102,7 @@ button.normal{
 /* home page*/
 
 #hero {
-    background-image: url("img/banner/b10.jpg");
+    background-image: url("b10.jpg");
     
     height: 90vh;
     width: 100%;
@@ -122,7 +122,7 @@ button.normal{
     color: aqua;
 }
 #hero button{
-    background-image: url(img/button.png);
+    background-image: url(button.png);
     background-color: transparent;
     color: rgb(9, 84, 28);
     border: 0cm;
@@ -235,7 +235,7 @@ button.normal{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("img/banner/b1.jpg");
+    background-image: url("b1.jpg");
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -268,14 +268,14 @@ button.normal{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("img/banner/b17.jpg");
+    background-image: url("b17.jpg");
     min-width: 580px;
     height: 50vh;
     background-size: cover;
     background-position: center;
 }
 #sm-bannner .banner-box2{
-    background-image: url("img/banner/b10.jpg");
+    background-image: url("b10.jpg");
     
 }
 #sm-bannner h4{
@@ -321,7 +321,7 @@ button.white{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("img/banner/b7.jpg");
+    background-image: url("b7.jpg");
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -330,10 +330,10 @@ button.white{
     margin-bottom: 20px;
 }
 #banner3 .banner-box2{
-    background-image: url("img/banner/b4.jpg");
+    background-image: url("b4.jpg");
 }
 #banner3 .banner-box3{
-    background-image: url("img/banner/b18.jpg");
+    background-image: url("b18.jpg");
 }
 #banner3 h2 {
     color: #fff;
@@ -351,7 +351,7 @@ button.white{
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url("img/banner/b14.png");
+    background-image: url("b14.png");
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: darkslategray;
@@ -520,7 +520,7 @@ footer .copywrite {
 }
 
 #page-header.blog-read{
-    background-image: url("img/banner/b14.png");
+    background-image: url("b14.png");
 }
 #blog {
     padding: 150px 150px 0 150px ;
